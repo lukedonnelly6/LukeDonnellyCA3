@@ -4,10 +4,10 @@
     <h1>Menu</h1>
     <ul>
         <li>
-            <a href="product_manager">Product Manager</a>
+            <a href="product_manager">Animal Manager</a>
         </li>
         <li>
-            <a href="product_catalog">Product Catalog</a>
+            <a href="product_catalog">Animal Catalog</a>
         </li>
     </ul>
 </main>
