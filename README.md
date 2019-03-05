@@ -4,4 +4,4 @@ The animal table displays the information like the animal id, category id and lo
 The locations table dispalys the location name and id.
 The category table displays the category name aswell as the category id.
 On the website the manager can view the tables, update the tables add new tables or delete the tables.
-Below are some screenshots of the different functions of the website.
+This project was completed over a month and i have changed various things to suit my database.
